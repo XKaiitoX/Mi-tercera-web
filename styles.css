@@ -1,0 +1,74 @@
+h2{
+    color:white;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+body{
+    background-color: black;
+    background-image: url(https://wallpaperaccess.com/full/4924234.png);
+    background-repeat: no-repeat;
+}
+
+hr{
+    color: black;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-family: 'Gajraj One', cursive;
+    font-size: 3ex
+}
+
+
+h4{
+    color: white;
+    text-align: end;
+}
+
+em{
+    color: white;
+    display: flex;
+    justify-content: end;
+}
+
+b{
+    color: white;
+}
+
+#negrilla{
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    font-size: large;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.Contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+.img1{
+    margin-right: 10px;
+}
+
+.img2{
+    margin-left: 10px;
+}
+
+.img3{
+    margin-left: 20px;
+}
